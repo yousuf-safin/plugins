@@ -1,0 +1,13 @@
+.box{
+  min-height: 300px;
+ 
+}
+.yellow{
+   background-color:yellow;
+}
+.green{
+  background-color: lime;
+}
+.blue{
+  background-color: aqua;
+}
